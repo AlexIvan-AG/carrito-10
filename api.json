@@ -1,0 +1,74 @@
+[
+    {
+        "precio": 10.00,
+        "id": 1,
+        "title": "Totis",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/1.jpg"
+    },
+    {
+        "precio": 16.00,
+        "id": 2,
+        "title": "Lays",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/2.jpg"
+    },
+    {
+        "precio": 23.00,
+        "id": 3,
+        "title": "Cheester cheetos",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/3.jpg"
+    },
+    {
+        "precio": 20.00,
+        "id": 4,
+        "title": "Pringles",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/4.jpg"
+    },
+    {
+        "precio": 15.00,
+        "id": 5,
+        "title": "Chips",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/5.jpg"
+    },
+    {
+        "precio": 32.00,
+        "id": 6,
+        "title": "Bubalo",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/6.jpg"
+    },
+    {
+        "precio": 16.00,
+        "id": 7,
+        "title": "Andatti",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/7.jpg"
+    },
+    {
+        "precio": 14.00,
+        "id": 8,
+        "title": "Cacahuates",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/8.jpg"
+    },
+    {
+        "precio": 40.00,
+        "id": 9,
+        "title": "Barra Wonka",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/9.jpg"
+    },
+    {
+        "precio": 15.00,
+        "id": 10,
+        "title": "Hershey's fresa",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/10.jpg"
+    },
+    {
+        "precio": 12.00,
+        "id": 11,
+        "title": "Hershey's Strawberry",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/11.jpg"
+    },
+    {
+        "precio": 13.00,
+        "id": 12,
+        "title": "Donitas",
+        "thumbnailUrl": "https://propitiatory-pots.000webhostapp.com/12.jpg"
+    }
+]
